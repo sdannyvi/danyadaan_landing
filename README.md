@@ -6,7 +6,15 @@ A clean, minimal personal landing page for **Dan Yadaan** (דן ידען)—facu
 
 - `index.html` — page structure and content
 - `style.css` — layout, typography, and subtle animations
+- `CNAME` — custom domain for GitHub Pages
 - This README
+
+## Deployment
+
+This site is deployed using GitHub Pages.
+
+Custom domain:
+www.danyadaan.com
 
 ## Local preview
 
